@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7f0a0ae.css",
-    "main.js": "/static/js/main.b9920f2b.js",
-    "static/js/787.8151a760.chunk.js": "/static/js/787.8151a760.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.c7f0a0ae.css.map": "/static/css/main.c7f0a0ae.css.map",
-    "main.b9920f2b.js.map": "/static/js/main.b9920f2b.js.map",
-    "787.8151a760.chunk.js.map": "/static/js/787.8151a760.chunk.js.map"
+    "main.css": "/islem_map/static/css/main.c7f0a0ae.css",
+    "main.js": "/islem_map/static/js/main.dc47e653.js",
+    "static/js/787.8151a760.chunk.js": "/islem_map/static/js/787.8151a760.chunk.js",
+    "static/media/logo.svg": "/islem_map/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/islem_map/index.html",
+    "main.c7f0a0ae.css.map": "/islem_map/static/css/main.c7f0a0ae.css.map",
+    "main.dc47e653.js.map": "/islem_map/static/js/main.dc47e653.js.map",
+    "787.8151a760.chunk.js.map": "/islem_map/static/js/787.8151a760.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7f0a0ae.css",
-    "static/js/main.b9920f2b.js"
+    "static/js/main.dc47e653.js"
   ]
 }
