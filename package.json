@@ -1,6 +1,7 @@
 {
   "name": "islem-map",
   "version": "0.1.0",
+  "homepage": "https://hamdi-99.github.io/islem_map",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
