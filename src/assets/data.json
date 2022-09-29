@@ -1,0 +1,412 @@
+﻿[
+    {
+        "port_name": "Tabarka",
+        "harbour_type": "Offshore",
+        "coordinates": "36° 58' North, 8° 42' East",
+        "latitude": "36.58",
+        "longitude": "8.42",
+        "dist_from_prev_port_by_road_km": "14,8",
+        "dist_from_prev_port_by_sea_km": "15,1",
+        "dist_from_prev_port_by_sea_nmi": "8,2"
+    },
+    {
+        "port_name": "Sidi Mechreg",
+        "harbour_type": "Coastal",
+        "coordinates": "37° 10' North, 9° 05' East",
+        "latitude": "37.10",
+        "longitude": "9.05",
+        "dist_from_prev_port_by_road_km": "64,1",
+        "dist_from_prev_port_by_sea_km": "41,3",
+        "dist_from_prev_port_by_sea_nmi": "22,3"
+    },
+    {
+        "port_name": "Menzel Abderrahman",
+        "harbour_type": "Shelter",
+        "coordinates": "37° 13' North, 9° 49' East",
+        "latitude": "37.13",
+        "longitude": "9.49",
+        "dist_from_prev_port_by_road_km": "91,6",
+        "dist_from_prev_port_by_sea_km": "100",
+        "dist_from_prev_port_by_sea_nmi": "54"
+    },
+    {
+        "port_name": "Bizerte-Zarzouna",
+        "harbour_type": "Coastal",
+        "coordinates": "37° 16' North, 9° 53' East",
+        "latitude": "37.16",
+        "longitude": "9.53",
+        "dist_from_prev_port_by_road_km": "6",
+        "dist_from_prev_port_by_sea_km": "16",
+        "dist_from_prev_port_by_sea_nmi": "8,6"
+    },
+    {
+        "port_name": "Cap Zebib",
+        "harbour_type": "Coastal",
+        "coordinates": "37° 15' North, 10° 04' East",
+        "latitude": "37.15",
+        "longitude": "10.04",
+        "dist_from_prev_port_by_road_km": "33",
+        "dist_from_prev_port_by_sea_km": "15,6",
+        "dist_from_prev_port_by_sea_nmi": "8,4"
+    },
+    {
+        "port_name": "Ghar El Melh",
+        "harbour_type": "Coastal & Sardinary",
+        "coordinates": "37° 10' North, 10° 16' East",
+        "latitude": "37.10",
+        "longitude": "10.16",
+        "dist_from_prev_port_by_road_km": "19,6",
+        "dist_from_prev_port_by_sea_km": "39",
+        "dist_from_prev_port_by_sea_nmi": "21,1"
+    },
+    {
+        "port_name": "Kalaat Andalous",
+        "harbour_type": "Shelter",
+        "coordinates": "37° 06' North, 10° 13' East",
+        "latitude": "37.06",
+        "longitude": "10.13",
+        "dist_from_prev_port_by_road_km": "51,1",
+        "dist_from_prev_port_by_sea_km": "29",
+        "dist_from_prev_port_by_sea_nmi": "15,7"
+    },
+    {
+        "port_name": "La Goulette",
+        "harbour_type": "Offshore",
+        "coordinates": "36° 50' North, 10° 19' East",
+        "latitude": "36.50",
+        "longitude": "10.19",
+        "dist_from_prev_port_by_road_km": "19,4",
+        "dist_from_prev_port_by_sea_km": "17",
+        "dist_from_prev_port_by_sea_nmi": "9,2"
+    },
+    {
+        "port_name": "Sidi Daoued",
+        "harbour_type": "Coastal",
+        "coordinates": "37° 00' North, 10° 54' East",
+        "latitude": "37.00",
+        "longitude": "10.54",
+        "dist_from_prev_port_by_road_km": "104",
+        "dist_from_prev_port_by_sea_km": "58,3",
+        "dist_from_prev_port_by_sea_nmi": "31,5"
+    },
+    {
+        "port_name": "El Hawaria",
+        "harbour_type": "Coastal",
+        "coordinates": "37° 02' North, 11° 04' East",
+        "latitude": "37.02",
+        "longitude": "11.04",
+        "dist_from_prev_port_by_road_km": "15,8",
+        "dist_from_prev_port_by_sea_km": "28",
+        "dist_from_prev_port_by_sea_nmi": "15,1"
+    },
+    {
+        "port_name": "Kelibia",
+        "harbour_type": "Offshore",
+        "coordinates": "36° 52' North, 11° 08' East",
+        "latitude": "36.52",
+        "longitude": "11.08",
+        "dist_from_prev_port_by_road_km": "31,2",
+        "dist_from_prev_port_by_sea_km": "30",
+        "dist_from_prev_port_by_sea_nmi": "16,2"
+    },
+    {
+        "port_name": "Beni Khiar",
+        "harbour_type": "Coastal",
+        "coordinates": "36° 27' North, 10° 48' East",
+        "latitude": "36.27",
+        "longitude": "10.48",
+        "dist_from_prev_port_by_road_km": "55,9",
+        "dist_from_prev_port_by_sea_km": "52",
+        "dist_from_prev_port_by_sea_nmi": "28,1"
+    },
+    {
+        "port_name": "Hergla",
+        "harbour_type": "Coastal",
+        "coordinates": "36° 40' North, 10° 30' East",
+        "latitude": "36.40",
+        "longitude": "10.30",
+        "dist_from_prev_port_by_road_km": "96",
+        "dist_from_prev_port_by_sea_km": "53,5",
+        "dist_from_prev_port_by_sea_nmi": "28,9"
+    },
+    {
+        "port_name": "Sousse",
+        "harbour_type": "Offshore",
+        "coordinates": "35° 50' North, 10° 38' East",
+        "latitude": "35.50",
+        "longitude": "10.38",
+        "dist_from_prev_port_by_road_km": "32,7",
+        "dist_from_prev_port_by_sea_km": "26,5",
+        "dist_from_prev_port_by_sea_nmi": "14,3"
+    },
+    {
+        "port_name": "Monastir",
+        "harbour_type": "Offshore",
+        "coordinates": "35° 46' North, 10° 50' East",
+        "latitude": "35.46",
+        "longitude": "10.50",
+        "dist_from_prev_port_by_road_km": "25,5",
+        "dist_from_prev_port_by_sea_km": "25,5",
+        "dist_from_prev_port_by_sea_nmi": "13,8"
+    },
+    {
+        "port_name": "Ksibet Medouni",
+        "harbour_type": "TBC",
+        "coordinates": "35° 69' North, 10° 85' East",
+        "latitude": "35.69",
+        "longitude": "10.85",
+        "dist_from_prev_port_by_road_km": "10,2",
+        "dist_from_prev_port_by_sea_km": "7",
+        "dist_from_prev_port_by_sea_nmi": "3,8"
+    },
+    {
+        "port_name": "Sayada",
+        "harbour_type": "TBC",
+        "coordinates": "35° 67' North, 10° 90' East",
+        "latitude": "35.67",
+        "longitude": "10.90",
+        "dist_from_prev_port_by_road_km": "5,3",
+        "dist_from_prev_port_by_sea_km": "5",
+        "dist_from_prev_port_by_sea_nmi": "2,7"
+    },
+    {
+        "port_name": "Teboulba",
+        "harbour_type": "TBC",
+        "coordinates": "35° 66' North, 10° 95' East",
+        "latitude": "35.66",
+        "longitude": "10.95",
+        "dist_from_prev_port_by_road_km": "7,3",
+        "dist_from_prev_port_by_sea_km": "6,6",
+        "dist_from_prev_port_by_sea_nmi": "3,6"
+    },
+    {
+        "port_name": "Bekalta",
+        "harbour_type": "Offshore",
+        "coordinates": "35° 46' North, 10° 50' East",
+        "latitude": "35.46",
+        "longitude": "10.50",
+        "dist_from_prev_port_by_road_km": "10,8",
+        "dist_from_prev_port_by_sea_km": "10,8",
+        "dist_from_prev_port_by_sea_nmi": "5,8"
+    },
+    {
+        "port_name": "Mahdia",
+        "harbour_type": "TBC",
+        "coordinates": "35° 51' North, 11° 07' East",
+        "latitude": "35.51",
+        "longitude": "11.07",
+        "dist_from_prev_port_by_road_km": "21,1",
+        "dist_from_prev_port_by_sea_km": "15,5",
+        "dist_from_prev_port_by_sea_nmi": "8,4"
+    },
+    {
+        "port_name": "Salakta",
+        "harbour_type": "TBC",
+        "coordinates": "35° 39' North, 11° 05' East",
+        "latitude": "35.39",
+        "longitude": "11.05",
+        "dist_from_prev_port_by_road_km": "15,9",
+        "dist_from_prev_port_by_sea_km": "12,2",
+        "dist_from_prev_port_by_sea_nmi": "6,6"
+    },
+    {
+        "port_name": "Chebba",
+        "harbour_type": "TBC",
+        "coordinates": "35° 23' North, 11° 16' East",
+        "latitude": "35.23",
+        "longitude": "11.16",
+        "dist_from_prev_port_by_road_km": "28",
+        "dist_from_prev_port_by_sea_km": "20,25",
+        "dist_from_prev_port_by_sea_nmi": "10,9"
+    },
+    {
+        "port_name": "Malloulech",
+        "harbour_type": "TBC",
+        "coordinates": "35° 15' North, 11° 08' East",
+        "latitude": "35.15",
+        "longitude": "11.08",
+        "dist_from_prev_port_by_road_km": "17,5",
+        "dist_from_prev_port_by_sea_km": "13,2",
+        "dist_from_prev_port_by_sea_nmi": "7,1"
+    },
+    {
+        "port_name": "Louza-Louata",
+        "harbour_type": "Coastal",
+        "coordinates": "35° 03' North, 11° 01' East",
+        "latitude": "35.03",
+        "longitude": "11.01",
+        "dist_from_prev_port_by_road_km": "21,2",
+        "dist_from_prev_port_by_sea_km": "11,8",
+        "dist_from_prev_port_by_sea_nmi": "6,4"
+    },
+    {
+        "port_name": "El Awabed",
+        "harbour_type": "Shelter",
+        "coordinates": "35° 55' North, 10° 55' East",
+        "latitude": "35.55",
+        "longitude": "10.55",
+        "dist_from_prev_port_by_road_km": "30,7",
+        "dist_from_prev_port_by_sea_km": "22,4",
+        "dist_from_prev_port_by_sea_nmi": "12,1"
+    },
+    {
+        "port_name": "Sfax",
+        "harbour_type": "Offshore",
+        "coordinates": "35° 40' North, 10° 40' East",
+        "latitude": "35.40",
+        "longitude": "10.40",
+        "dist_from_prev_port_by_road_km": "25,7",
+        "dist_from_prev_port_by_sea_km": "24,5",
+        "dist_from_prev_port_by_sea_nmi": "13,2"
+    },
+    {
+        "port_name": "El Kratten",
+        "harbour_type": "Coastal",
+        "coordinates": "34° 48' North, 11° 16' East",
+        "latitude": "34.48",
+        "longitude": "11.16",
+        "dist_from_prev_port_by_road_km": "64,4",
+        "dist_from_prev_port_by_sea_km": "46,1",
+        "dist_from_prev_port_by_sea_nmi": "24,9"
+    },
+    {
+        "port_name": "El Attaya",
+        "harbour_type": "Coastal",
+        "coordinates": "34° 44' North, 11° 18' East",
+        "latitude": "34.44",
+        "longitude": "11.18",
+        "dist_from_prev_port_by_road_km": "12,9",
+        "dist_from_prev_port_by_sea_km": "11,8",
+        "dist_from_prev_port_by_sea_nmi": "6,4"
+    },
+    {
+        "port_name": "Mahres",
+        "harbour_type": "Coastal",
+        "coordinates": "34° 31' North, 10° 30' East",
+        "latitude": "34.31",
+        "longitude": "10.30",
+        "dist_from_prev_port_by_road_km": "37,8",
+        "dist_from_prev_port_by_sea_km": "38,5",
+        "dist_from_prev_port_by_sea_nmi": "20,8"
+    },
+    {
+        "port_name": "Zabboussa",
+        "harbour_type": "Shelter",
+        "coordinates": "34° 21' North, 10° 12' East",
+        "latitude": "34.21",
+        "longitude": "10.12",
+        "dist_from_prev_port_by_road_km": "41,9",
+        "dist_from_prev_port_by_sea_km": "34,1",
+        "dist_from_prev_port_by_sea_nmi": "18,4"
+    },
+    {
+        "port_name": "Skhira",
+        "harbour_type": "Coastal",
+        "coordinates": "34° 17' North, 10° 15' East",
+        "latitude": "34.17",
+        "longitude": "10.15",
+        "dist_from_prev_port_by_road_km": "29,1",
+        "dist_from_prev_port_by_sea_km": "12,6",
+        "dist_from_prev_port_by_sea_nmi": "6,8"
+    },
+    {
+        "port_name": "Gabes",
+        "harbour_type": "TBC",
+        "coordinates": "33° 91' North, 10° 12' East",
+        "latitude": "33.91",
+        "longitude": "10.12",
+        "dist_from_prev_port_by_road_km": "58,3",
+        "dist_from_prev_port_by_sea_km": "43,4",
+        "dist_from_prev_port_by_sea_nmi": "23,4"
+    },
+    {
+        "port_name": "Zarrat",
+        "harbour_type": "TBC",
+        "coordinates": "33° 72' North, 10° 36' East",
+        "latitude": "33.72",
+        "longitude": "10.36",
+        "dist_from_prev_port_by_road_km": "47,7",
+        "dist_from_prev_port_by_sea_km": "32",
+        "dist_from_prev_port_by_sea_nmi": "17,3"
+    },
+    {
+        "port_name": "El Grin",
+        "harbour_type": "Shelter",
+        "coordinates": "33° 39' North, 10° 33' East",
+        "latitude": "33.39",
+        "longitude": "10.33",
+        "dist_from_prev_port_by_road_km": "40,4",
+        "dist_from_prev_port_by_sea_km": "24,4",
+        "dist_from_prev_port_by_sea_nmi": "13,2"
+    },
+    {
+        "port_name": "Ajim",
+        "harbour_type": "Coastal",
+        "coordinates": "33° 43' North, 10° 44' East",
+        "latitude": "33.43",
+        "longitude": "10.44",
+        "dist_from_prev_port_by_road_km": "34,7",
+        "dist_from_prev_port_by_sea_km": "19",
+        "dist_from_prev_port_by_sea_nmi": "10,3"
+    },
+    {
+        "port_name": "Houmet Essouk",
+        "harbour_type": "Coastal",
+        "coordinates": "33° 53' North, 10° 51' East",
+        "latitude": "33.53",
+        "longitude": "10.51",
+        "dist_from_prev_port_by_road_km": "23,4",
+        "dist_from_prev_port_by_sea_km": "33,8",
+        "dist_from_prev_port_by_sea_nmi": "18,3"
+    },
+    {
+        "port_name": "Aghir",
+        "harbour_type": "Shelter",
+        "coordinates": "33° 45' North, 11° 01' East",
+        "latitude": "33.45",
+        "longitude": "11.01",
+        "dist_from_prev_port_by_road_km": "23,3",
+        "dist_from_prev_port_by_sea_km": "37,9",
+        "dist_from_prev_port_by_sea_nmi": "20,5"
+    },
+    {
+        "port_name": "Boughrara",
+        "harbour_type": "Coastal",
+        "coordinates": "33° 31' North, 10° 41' East",
+        "latitude": "33.31",
+        "longitude": "10.41",
+        "dist_from_prev_port_by_road_km": "22,9",
+        "dist_from_prev_port_by_sea_km": "22,5",
+        "dist_from_prev_port_by_sea_nmi": "12,1"
+    },
+    {
+        "port_name": "Hessi Jellaba",
+        "harbour_type": "Shelter",
+        "coordinates": "33° 36' North, 10° 55' East",
+        "latitude": "33.36",
+        "longitude": "10.55",
+        "dist_from_prev_port_by_road_km": "27",
+        "dist_from_prev_port_by_sea_km": "26,1",
+        "dist_from_prev_port_by_sea_nmi": "14,1"
+    },
+    {
+        "port_name": "Zarzis",
+        "harbour_type": "Offshore",
+        "coordinates": "33° 30' North, 11° 07' East",
+        "latitude": "33.30",
+        "longitude": "11.07",
+        "dist_from_prev_port_by_road_km": "23,7",
+        "dist_from_prev_port_by_sea_km": "45,7",
+        "dist_from_prev_port_by_sea_nmi": "24,7"
+    },
+    {
+        "port_name": "El Ketf",
+        "harbour_type": "Coastal",
+        "coordinates": "33° 10' North, 11° 32' East",
+        "latitude": "33.10",
+        "longitude": "11.32",
+        "dist_from_prev_port_by_road_km": "38,3",
+        "dist_from_prev_port_by_sea_km": "28,2",
+        "dist_from_prev_port_by_sea_nmi": "15,2"
+    }
+]
